@@ -28,8 +28,6 @@ namespace ConsoleApp1
             //大、中、小臂长度
             double l1=550,l2=450,l3=600;
 
-            
-            
 
             //辅助变量(x_,y_为目标点在以大臂末端为原点的坐标系中的位置)
             double x_, y_,l_,a_;
